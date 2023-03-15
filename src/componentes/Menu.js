@@ -15,16 +15,19 @@ function Menu() {
                                 <a class="nav-link  boton" aria-current="page" href="#">Home</a>
                             </li>
                             <li class="nav-item ">
-                                <a class="nav-link boton" href="#">Escape Rooms</a>
+                                <a class="nav-link boton" href="#">About us</a>
+                            </li>
+                            <li class="nav-item ">
+                                <a class="nav-link boton" href="#">Make a reservation</a>
                             </li>
                             <li class="nav-item  ">
                                 <a class="nav-link boton " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Provinces
                                 </a>
                                 <ul class="dropdown-menu ">
-                                    <li><a class="dropdown-item" href="#">Gipuzkoa</a></li>
-                                    <li><a class="dropdown-item" href="#">Bizkaia</a></li>
                                     <li><a class="dropdown-item" href="#">Araba</a></li>
+                                    <li><a class="dropdown-item" href="#">Bizkaia</a></li>
+                                    <li><a class="dropdown-item" href="#">Gipuzkoa</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -33,7 +36,9 @@ function Menu() {
                         </ul>
                         <form class="d-flex" role="search">
                             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                            <button class="btn btn-outline-danger" type="submit">Search</button>
+                            <button class="btn btn-primary" id="search" type="submit">Search</button>
+                            <button class="btn btn-outline-danger" id="login" type="submit">Login</button>
+
                         </form>
                     </div>
                 </div>

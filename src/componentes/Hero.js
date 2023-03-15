@@ -1,8 +1,10 @@
 import React from "react";
+import "../hojas-de-estilo/Hero.css";
+
 
 function Hero(){
     return(
-        <div className="row">
+        <div className="row hero">
             <div class="px-4 py-5 my-5 text-center">
                 <img class="d-block mx-auto mb-4" src={require("../img/logo.png")} width="30%"/>
                 <h1 class="display-5 fw-bold">What does have Desafío Escape to offer?</h1>

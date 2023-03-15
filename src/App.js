@@ -1,4 +1,5 @@
 import './App.css';
+import "./hojas-de-estilo/todoCSS.css";
 import Contacto from './componentes/Contacto';
 import Footer from './componentes/Footer';
 import Hero from './componentes/Hero';

@@ -1,0 +1,17 @@
+
+.botonRojo{color: beige;}
+.logo{
+    height: 100px;
+}
+.navegador {
+    background-color: var(--fondoNav) !important;
+    position: sticky;
+    top: 0;
+    padding: 0.2rem;
+    z-index: 999;
+  }
+
+  .botonRojo:hover{
+    color: beige !important;
+    text-decoration: underline var(--blanco) !important;
+  }

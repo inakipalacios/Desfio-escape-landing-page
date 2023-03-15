@@ -1,17 +1,27 @@
 
-.botonRojo{color: beige;}
+.nav-link{color: beige;}
 .logo{
     height: 100px;
 }
-.navegador {
+/* .navegador {
     background-color: var(--fondoNav) !important;
-    position: sticky;
+    position: sticky !important;
+   
+  } */
+ .navbar{ 
+    background-color: var(--fondoNav) !important;
+    position: sticky !important;
+    width: 100%;
     top: 0;
     padding: 0.2rem;
     z-index: 999;
-  }
+ }
 
-  .botonRojo:hover{
+  .nav-link:hover{
+    color: beige !important;
+    text-decoration: underline var(--blanco) !important;
+  }
+  .nav-link:focus{
     color: beige !important;
     text-decoration: underline var(--blanco) !important;
   }

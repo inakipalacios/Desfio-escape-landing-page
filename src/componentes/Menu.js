@@ -15,17 +15,16 @@ function Menu() {
                                 <a class="nav-link  boton" aria-current="page" href="#">Home</a>
                             </li>
                             <li class="nav-item ">
-                                <a class="nav-link boton" href="#">Link</a>
+                                <a class="nav-link boton" href="#">Escape Rooms</a>
                             </li>
                             <li class="nav-item  ">
                                 <a class="nav-link boton " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Dropdown
+                                    Provinces
                                 </a>
                                 <ul class="dropdown-menu ">
-                                    <li><a class="dropdown-item" href="#">Action</a></li>
-                                    <li><a class="dropdown-item" href="#">Another action</a></li>
-                                    <li><hr class="dropdown-divider" /></li>
-                                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="#">Gipuzkoa</a></li>
+                                    <li><a class="dropdown-item" href="#">Bizkaia</a></li>
+                                    <li><a class="dropdown-item" href="#">Araba</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">

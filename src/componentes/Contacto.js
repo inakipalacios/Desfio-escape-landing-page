@@ -14,7 +14,7 @@ function Contacto(){
                 <input type="email" class="form-control" id="emailContact" placeholder="name@example.com"/>
             </div>
             <div class="mb-3">
-                <label for="mensajeContact" class="form-label">Example textarea</label>
+                <label for="mensajeContact" class="form-label">Send us your message</label>
                 <textarea class="form-control" id="mensajeContact" rows="3"></textarea>
             </div>
             <div class="mb-3">

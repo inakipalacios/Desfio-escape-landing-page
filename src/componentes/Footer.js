@@ -56,7 +56,6 @@ function Footer (){
                     <ul class="list-unstyled d-flex">
                         <li class="ms-3"><a class="link-dark" href="#"><img src={require("../img/instagram.png")} class="bi" width="24" height="24"/></a></li>
                         <li class="ms-3"><a class="link-dark" href="#"><img src={require("../img/twitter2.png")} class="bi" width="24" height="24"/></a></li>
-                        <li class="ms-3"><a class="link-dark" href="#"><img src="" class="bi" width="24" height="24"/></a></li>
                     </ul>
                 </div>
             </footer>

@@ -10,7 +10,7 @@
   } */
  .navbar{ 
     background-color: var(--fondoNav) !important;
-    position: sticky !important;
+    position: fixed !important;
     width: 100%;
     top: 0;
     padding: 0.2rem;

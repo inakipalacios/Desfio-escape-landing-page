@@ -1,5 +1,6 @@
 {
-  "name": "landing_page_inaki",
+  "name": "landing_page",
+  "homepage": "http://127.0.0.1/&quot",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

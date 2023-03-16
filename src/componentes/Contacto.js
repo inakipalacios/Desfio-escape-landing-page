@@ -18,7 +18,7 @@ function Contacto(){
                 <textarea class="form-control" id="mensajeContact" rows="3"></textarea>
             </div>
             <div class="mb-3">
-                <button type="button" class="btn btn-primary">Send message</button>
+                <button type="button" class="btn btn-primary boton">Send message</button>
             </div>
         </div>
     );

@@ -12,16 +12,16 @@ function Menu() {
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link  boton" aria-current="page" href="#">Home</a>
+                                <a class="nav-link  " aria-current="page" href="#">Home</a>
                             </li>
                             <li class="nav-item ">
-                                <a class="nav-link boton" href="#">About us</a>
+                                <a class="nav-link " href="#">About us</a>
                             </li>
                             <li class="nav-item ">
-                                <a class="nav-link boton" href="#">Make a reservation</a>
+                                <a class="nav-link " href="#">Make a reservation</a>
                             </li>
                             <li class="nav-item  ">
-                                <a class="nav-link boton " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                <a class="nav-link  " href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Provinces
                                 </a>
                                 <ul class="dropdown-menu ">
@@ -36,8 +36,8 @@ function Menu() {
                         </ul>
                         <form class="d-flex" role="search">
                             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                            <button class="btn btn-primary" id="search" type="submit">Search</button>
-                            <button class="btn btn-outline-danger" id="login" type="submit">Login</button>
+                            <button class="btn btn-primary boton"  id="search" type="submit">Search</button>
+                            <button class="btn  btn-primary boton" id="login" type="submit">Login</button>
 
                         </form>
                     </div>

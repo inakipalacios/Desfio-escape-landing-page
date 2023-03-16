@@ -1,7 +1,7 @@
 
-.nav-link{color: beige;}
+.nav-link{color:var(--blanco);}
 .logo{
-    height: 100px;
+    width: 100px;
 }
 /* .navegador {
     background-color: var(--fondoNav) !important;
@@ -18,10 +18,19 @@
  }
 
   .nav-link:hover{
-    color: beige !important;
+    color: var(--blanco) !important;
     text-decoration: underline var(--blanco) !important;
   }
   .nav-link:focus{
-    color: beige !important;
+    color: var(--blanco) !important;
     text-decoration: underline var(--blanco) !important;
+  }
+
+  .boton{
+    background-color: var(--rojo) !important;
+    border: 0px
+  }
+  .boton:hover{
+    background-color: var(--hoverRojo) !important;
+    border: 0px
   }

@@ -1,11 +1,10 @@
 :root {
-    --rojo: #9e3333;
+    --rojo: #ea0707 ;
     --negro: #252525;
-    --blanco:white;
-    --rojoBrillante:#be1e26;
-    --fondoNav:#000000;
+    --blanco:beige;
+    --fondoNav:#0e0e0e;
     
 
-    --letraNegra: #252525;
-    --hover:#742727;
+    --letraNegra: #050505;
+    --hoverRojo:#be1e26;
   }
